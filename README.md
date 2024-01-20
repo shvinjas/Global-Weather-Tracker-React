@@ -2,6 +2,11 @@
 ## Overview
 This is a simple React Weather App that allows users to check the current weather for a given city. It utilizes the WeatherAPI to fetch real-time weather data.
 
+![weather page 1](https://github.com/shvinjas/Global-Weather-Tracker-React/assets/112388713/e657285f-bf7c-4244-b60e-d3a558cfdbe9)
+![weather page 2](https://github.com/shvinjas/Global-Weather-Tracker-React/assets/112388713/1ee34475-3636-429c-92dd-b7ff37e4a6b2)
+
+
+
 ## Features
 Users can enter a city name in the input field.
 Clicking the "Search" button fetches and displays the current temperature and weather conditions for the entered city.
