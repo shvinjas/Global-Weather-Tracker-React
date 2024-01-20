@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     fetch(
       `https://api.weatherapi.com/v1/current.json?key=2ce0be2f041c4b6eb7262435230712&q=${currentCity}&aqi=no`
-    )
+    )//fetch
       .then((response) => response.json())
       .then((result) => {
         console.log(result);
